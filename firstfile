@@ -5,3 +5,5 @@ shell
 aws
 python 
 and git .
+jenkins
+docker
