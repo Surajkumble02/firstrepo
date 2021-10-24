@@ -5,5 +5,8 @@ shell
 aws
 python 
 and git .
-jenkins
+jenkins 
+machinelearning
+plsql
+java
 docker
